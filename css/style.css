@@ -1,0 +1,96 @@
+.a{
+  background-color: #ccf6c8;
+  position: relative;
+  padding-top: 100px;
+}
+body
+{
+  margin: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #ff5722;
+}
+h1
+{
+/*width: 100%;*/
+margin: 0 auto 0 auto;
+
+font-family: 'Sacramento', cursive;
+font-size: 90px;
+
+
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;;
+  color: #ff414d;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #32e0c4;
+}
+.bottom-container
+{
+  background-color:#f9c0c0;
+  padding:40px;
+
+}
+.contact-me
+{
+  padding-bottom: 20px;
+  line-height: 2;
+}
+.middle-container
+{
+
+  background-color:#fafcc2;
+
+}
+.pro
+{
+  text-decoration: underline;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.top-cloud
+{
+  position: absolute;
+  right:300px;
+  top: 50px;
+}
+.androidImg
+{
+  height: 100px;
+  width: 200px;
+}
+.htmlImg
+{
+  height: 200px;
+  width: 200px;
+}
+
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.androidImg{
+  float: left;
+  margin-right: 30px;
+}
+.htmlImg{
+  float: right;
+  margin-left: 30px;
+}
